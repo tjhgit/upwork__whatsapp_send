@@ -1,0 +1,5 @@
+poetry.lock
+pywhatkit_dbs.txt
+.idea/*
+venv/*
+poetry.lock
